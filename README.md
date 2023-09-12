@@ -7,5 +7,5 @@
 - Webpack
 - TypesScript
 - React
-- Redux Toolkit
+- Redux MobX
 - SASS
